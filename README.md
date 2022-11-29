@@ -73,4 +73,6 @@ Other epidemiological models in the netlogo's model library:
 
 Model developed by Cédric Sueur, Valéria Romano and Maxime Pierron.
 
+[![DOI](https://zenodo.org/badge/545447277.svg)](https://zenodo.org/badge/latestdoi/545447277)
+
 URL: https://github.com/ArdCarraigh/Network-Based-SIR-Epidemiological-Model
